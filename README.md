@@ -8,6 +8,29 @@ Duration:November to December 2024
 
 Overview of a Java Project
 
+Output
+
+C:\Users\Chandu\Desktop\Java>javac StudentGradeTracker.java
+
+C:\Users\Chandu\Desktop\Java>java StudentGradeTracker
+
+Enter student name: saimanoj
+
+Enter number of subjects: Computer Science
+
+Exception in thread "main" java.util.InputMismatchException
+        
+        at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+        
+        at java.base/java.util.Scanner.next(Scanner.java:1602)
+       
+        at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+        
+        at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+       
+        at StudentGradeTracker.main(StudentGradeTracker.java:12)
+
+
 A Java project is a software development endeavor that utilizes the Java programming language to build applications, solutions, or systems. Java is an object-oriented, platform-independent language, widely used in building everything from small utilities to large enterprise-level applications. A Java project typically involves a structured approach to coding, testing, building, deploying, and maintaining software.
 
 Here’s an overview of the key components and phases of a typical Java project:
