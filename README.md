@@ -2,9 +2,13 @@ Name:PRATHIPATI SAI MANOJ
 
 Company:CODTECH IT SOLUTIONS
 
+ID:CTO8ERL
+
 Domain:Java Programming
 
 Duration:November to December 2024
+
+Mentor:Sravani Gouni
 
 ### Overview of a Java Project
 
