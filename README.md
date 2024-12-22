@@ -8,7 +8,7 @@ Duration:November to December 2024
 
 ### Overview of a Java Project
 
-Output
+Output:
 
 Microsoft Windows [Version 10.0.19045.4239]
 
